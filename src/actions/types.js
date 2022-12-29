@@ -1,0 +1,4 @@
+export const CREATE_PRODUCT = "CREATE_PRODUCT"
+export const POST_ERROR = "POST_ERROR"
+export const CLEAR_CACHE = "CLEAR_CACHE"
+export const FETCH_PRODUCTS = "FETCH_PRODUCTS"
